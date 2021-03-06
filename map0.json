@@ -113,9 +113,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/fsinf.github.io\/workadventure-fsinf\/map.json#start"
+                 "value":"map.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
