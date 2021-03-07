@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"floor1.json#start"
+                 "value":"floor01.json#downstairs_entry"
                 }],
          "type":"tilelayer",
          "visible":true,

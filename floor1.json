@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#upstairs_entry"
+                 "value":"floor01.json#upstairs_entry"
                 }],
          "type":"tilelayer",
          "visible":true,
