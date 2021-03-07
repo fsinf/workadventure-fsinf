@@ -1,3 +1,7 @@
+# A Map from the FsInf for WorkAdventure
+
+[Link to the instance](https://play.workadventu.re/_/global/fsinf.github.io/workadventure-fsinf/main.json)
+
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
